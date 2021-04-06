@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005582487520",
+    "project_id": "sanjayakost-f5ac0",
+    "storage_bucket": "sanjayakost-f5ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005582487520:android:3b2f930b68b40c52f12585",
+        "android_client_info": {
+          "package_name": "com.sukumaya.phoneauth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005582487520-c29lubp81kfviogcdg609d5tisluscam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGx4EwkipzbKxRX5SddpSZQfrTw-WkoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005582487520-c29lubp81kfviogcdg609d5tisluscam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
